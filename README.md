@@ -34,7 +34,7 @@ This React-based Todo List application provides a user-friendly interface for ma
 
 To run the Todo List application, follow the standard React project setup steps:
 
-1. Clone the repository: git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git
+1. Clone the repository: git clone https://github.com/YonisElmi/react-todo-list-app.git
 2. Navigate to the project directory: cd react-todo-list-app
 3. Install the dependencies: npm install
 4. Start the development server: npm start
